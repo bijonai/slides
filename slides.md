@@ -572,10 +572,15 @@ class: text-center
 
 </div>
 
-<div class="mt-8 text-sm opacity-50">
-  BijonAI © 2025 · 用AI重塑教育未来
-</div>
-
 ---
 
+# Our Social Medias
 
+<div class="grid grid-cols-3 gap-2">
+  <img src="/github.png">
+  <img src="/x.png">
+  <img src="/rednote.png">
+  <span class="text-center">GitHub</span>
+  <span class="text-center">X</span>
+  <span class="text-center">RedNote</span>
+</div>
